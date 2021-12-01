@@ -1,7 +1,7 @@
 # dayz-discord-killfeed
 DayZ Stand Alone Discord Killfeed Bot
 
-Laziest readme ever. 
+Laziest readme ever. Put parse_kf.py in your DayZ Server logs folder. Open a shell and navigate there. 
 
 1. Edit parse_kf.py and add your Discord webhook url on line 7
 2. install python3
